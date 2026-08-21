@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1741998836 source:c:\users\flavi\onedrive\documentos\meus projetos c\tabuada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
