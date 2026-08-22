@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1742000790 source:c:\users\flavi\onedrive\documentos\meus projetos c\contagem regressiva\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
